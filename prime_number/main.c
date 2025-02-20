@@ -5,7 +5,7 @@
 int main() {
 	int n;
 
-	printf("2 이상의 정수를 입력하세요 >> ");
+	printf("2 이상의 정수 입력 >> ");
 	scanf("%d", &n);
 
 	int primes[100];
