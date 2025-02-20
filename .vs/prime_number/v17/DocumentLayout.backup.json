@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\microsoft\\Desktop\\\uC218\uC5C5\\prime_number\\",
+  "WorkspaceRootPath": "C:\\Users\\microsoft\\Desktop\\proj\\prime_number\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EA5009A1-06B8-4C3B-99BF-EF5F21AF0790}|prime_number\\prime_number.vcxproj|C:\\Users\\microsoft\\Desktop\\\uC218\uC5C5\\prime_number\\prime_number\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{EA5009A1-06B8-4C3B-99BF-EF5F21AF0790}|prime_number\\prime_number.vcxproj|C:\\Users\\microsoft\\Desktop\\proj\\prime_number\\prime_number\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{EA5009A1-06B8-4C3B-99BF-EF5F21AF0790}|prime_number\\prime_number.vcxproj|solutionrelative:prime_number\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.c",
-              "DocumentMoniker": "C:\\Users\\microsoft\\Desktop\\\uC218\uC5C5\\prime_number\\prime_number\\main.c",
+              "DocumentMoniker": "C:\\Users\\microsoft\\Desktop\\proj\\prime_number\\prime_number\\main.c",
               "RelativeDocumentMoniker": "prime_number\\main.c",
-              "ToolTip": "C:\\Users\\microsoft\\Desktop\\\uC218\uC5C5\\prime_number\\prime_number\\main.c",
+              "ToolTip": "C:\\Users\\microsoft\\Desktop\\proj\\prime_number\\prime_number\\main.c",
               "RelativeToolTip": "prime_number\\main.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-02-19T07:17:08.969Z",
               "EditorCaption": ""
